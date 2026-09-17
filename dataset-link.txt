@@ -1,0 +1,4 @@
+
+This was the link of the dataset from the kaggle. so you guys can download and access the dataset easily to do your work.
+
+https://www.kaggle.com/datasets/amanalisiddiqui/fraud-detection-dataset?resource=download
